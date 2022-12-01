@@ -3,8 +3,8 @@ PIVO
 
 Ircevní tekst
 
-Pivení poštanou tévét ko ircevní kulturí tost. Na ircevní blavta ješ mies
-a mies ko svivní suka sudaževí ko pivmašt. Na nách berosta ješ sní pivohlena.
+Pivení poštanou tévét ko ircevní kulturí tost. Na ircevní blavta ješ měs
+a měs ko svivní suka sudaževí ko pivmašt. Na nách berosta ješ sní pivohlena.
 Nimě ně beroscí hupárám oktabru lokalní hlena zapébeví.
 
 ENGLISH TRANSLATION
@@ -30,7 +30,7 @@ GLOSSES
     'Drinking beer is an important part of Iridian culture.'
     'Pivo je důležitou součástí iridské kultury.'
 
-(2) Na   ircevní      blavta       ješ   mies     a    mies     ko   svivní      suka      sudaževí     ko   pivmašt.
+(2) Na   ircevní      blavta       ješ   měs      a    měs     ko   svivní      suka      sudaževí     ko   pivmašt.
     LOC  Iridian-ATT  countryside  EXST  hundred  and  hundred  ATT  unique-ATT  brew-ACC  make-AV-IPF  ATT  brewery 
     'Scattered in the Iridian countryside are hundreds of local breweries, each making their own unique brew.'
     'Roztříštěné po iridské venkově jsou stovky místních pivovarů, každý vyrábějící své vlastní jedinečné pivo.'
@@ -44,3 +44,25 @@ GLOSSES
     however  PL  town-GEN  majority-AGT  October-INST  local-ATT  festival  celebrate-BEN-IPF
     'Most towns, however, celebrate their local beer festival sometime in October.'
     'Většina měst však slaví svůj pivní festival někdy v říjnu.'
+
+VOCABULARY
+
+Ircevní                 Anglevní
+=======                 ========
+berost                  town
+blavta                  countryside
+hupár                   majority
+Ircevní                 Iridian
+kultur                  culture
+lokalní                 local
+měs                     hundred
+oktaber                 October
+pivmašt                 brewery
+pivo                    beer
+pivohlena               beer festival
+poštanou                drinking
+sudadá                  make/brew
+suka                    brew
+svivní                  unique
+tévét                   important
+zapá                    celebrate
