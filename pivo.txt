@@ -1,0 +1,38 @@
+PIVO
+====
+
+Ircevní tekst
+
+Pivení poštanou tévét ko ircevní kulturí tost. Na ircevní blavta ješ mies a mies ko svivní suka sudaževí ko pivmašt. Na nách berosta ješ sní pivohlena. Nimě ně beroscí hupárám oktabru lokalní hlena zapébeví.
+
+ENGLISH TRANSLATION
+
+Drinking beer is an important part of Iridian culture. Scattered in the Iridian countryside are hundreds of local breweries, each making their own unique brew. Each town often boasts its own beer festival. Most towns, however, celebrate their local beer festival sometime in October.
+
+CZECH TRANSLATION
+
+Pivo je důležitou součástí iridské kultury. Roztříštěné po iridské venkově jsou stovky místních pivovarů, každý vyrábějící své vlastní jedinečné pivo. Každé město často slaví svůj vlastní pivní festival. Většina měst však slaví svůj pivní festival někdy v říjnu.
+
+
+GLOSSES
+
+
+(1) Pivení    poštanou      tévét      ko   ircevní      kulturí      tost.
+    beer-GEN  GER-drink-NZ  important  ATT  Iridian-ATT  culture-GEN  part
+    'Drinking beer is an important part of Iridian culture.'
+    'Pivo je důležitou součástí iridské kultury.'
+
+(2) Na   ircevní      blavta       ješ   mies     a    mies     ko   svivní      suka      sudaževí     ko   pivmašt.
+    LOC  Iridian-ATT  countryside  EXST  hundred  and  hundred  ATT  unique-ATT  brew-ACC  make-AV-IPF  ATT  brewery 
+    'Scattered in the Iridian countryside are hundreds of local breweries, each making their own unique brew.'
+    'Roztříštěné po iridské venkově jsou stovky místních pivovarů, každý vyrábějící své vlastní jedinečné pivo.'
+
+(3) Na   nách   berosta   ješ   sní      pivohlena.
+    LOC  each   town-ACC  EXST  own-ATT  beer-festival
+    'Each town often boasts its own beer festival.'
+    'Každé město často slaví svůj vlastní pivní festival.'
+
+(4) Nimě     ně  beroscí   hupárám       oktabru       lokalní    hlena     zapébeví.
+    however  PL  town-GEN  majority-AGT  October-INST  local-ATT  festival  celebrate-BEN-IPF
+    'Most towns, however, celebrate their local beer festival sometime in October.'
+    'Většina měst však slaví svůj pivní festival někdy v říjnu.'

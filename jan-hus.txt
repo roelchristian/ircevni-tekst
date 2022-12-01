@@ -1,0 +1,89 @@
+JAN HUS
+====================
+
+
+Ircevní tekst
+
+Jan Hus češčevní teolog a filozof. Kluční protestantizmí prědnik ko Husitizmí inspiracina nehoček. Ša bohamevní reformacení hovlauní cel. Na Boršómí Husinca plavní hurku nebrinek. Za plavnosta varšit koplenást zodébik. Otvěc si na Praha stožek, a joní ně hrum kaznébeví a preštébeví še možlašaní. 
+
+English translation
+
+Jan Hus was a Czech theologian and philosopher. He became the inspiration of the Hussite movement, a key predecessor of Protestantism. He was a key figure in the Bohemian Reformation. He was born in Husinec, Bohemia, to poor parents. In order to escape poverty, he trained for the priesthood. He travelled to Prague at a young age, where he earned a living by singing and serving in churches.
+
+Czech translation
+
+Jan Hus byl český teolog a filozof. Jeho dílo bylo základem hnutí husitského, které bylo klíčovým předchůdcem protestantismu. Byl klíčovou postavou v české reformaci. Narodil se v Husincích, v Čechách, do chudých rodičů. Aby se vyhnul chudobě, vyučil se kněze. V mladém věku cestoval do Prahy, kde si žil písněmi a službami v kostelech.
+
+Translation notes
+
+* The verb _berá_ 'to carry, to bear' is idiomatically used in the causative with the passive voice to mean 'to be born.' Thus the sentence 'Ša na Husinca nebrinek' means 'He was born in Husinec.' 
+
+Glosses
+
+(1) Jan Hus češčevní   teolog     a   filozof.
+    Jan Hus Czech-ATT  theologian and philosopher
+    'Jan Hus (was) a Czech theologian and philosopher.'
+
+(2) Kluční   protestantizmí   prědnik     ko   Husitizmí            inspiracina     nehoček.
+    key-ATT Protestantism-GEN predecessor ATT  Hussite:movement-GEN inspiration-ACC become-AV-PF
+    'He became the inspiration of the Hussite movement, a key predecessor of Protestantism.'
+
+(3) Ša        bohamevní   reformacení      hovlauní       cel.
+    DEM.ANIM  bohemia-ATT reformation-GEN  important-ATT  person
+    'He was a key figure in the Bohemian Reformation.'
+
+(4) Na   Boršómí      Husinca      plavní    hurku         nebrinek.
+    LOC  Bohemia-GEN  Husinec-ACC  poor-ATT  parents-INST  CAUS-bring-PV-PF
+    'He was born in Husinec, Bohemia, to poor parents.'
+
+(5) Za   plavnosta    varšit          koplenást   zodébik.
+    For  poverty-ACC  leave-AV-SUP.P  priesthood  train-BEN-PF
+    'In order to escape poverty, he trained for the priesthood.'
+
+(6) Otvěc         si    na   Praha      stožek,   a    joní  ně    hrum   kaznébeví     a    preštébeví     še    možlašaní.
+    young:person  when  LOC  Prague-ACC go-AV-PF  and  DIST  some  church sing-BEN-IPF  and  serve-BEN-IPF  with  live-AV-RET
+    'He travelled to Prague at a young age, where he earned a living by singing and serving in churches.'
+
+Vocabulary
+
+Ircevní                     Anglevní                
+=======                     ========
+Jan Hus                     Jan Hus
+češčevní                    Czech
+teolog                      theologian
+a                           and
+filozof                     philosopher
+kluční                      key (adj.)
+protestantizmí              Protestantism (gen.)
+prědnik                     predecessor
+ko                          (attributive particle)
+Husitizmí                   Hussite movement (gen.)
+inspiracina                 inspiration (acc.)
+nehoček                     become (perfective)
+ša                          he/she
+Bohamevní                   Bohemian
+reformacení                 Reformation (gen.)
+hovlauní                    important
+cel                         person
+na                          in
+Boršómí                     Bohemia (gen.)
+Husinca                     Husinec (acc.)
+plavní                      poor
+hurku                       parent (instr.)
+nebrinek                    to be born (caus. pass. perf.)
+za                          for
+plavnosta                   poverty (acc.)
+varšit                      to escape (supine of purpose)
+koplenást                   priesthood
+zodébik                     to train (benefactive perf.)
+otvěc                       young
+si                          when
+Praha                       Prague
+stožek                      to go (act. perf.)
+joní                        there
+ně                          plural
+hrum                        church
+kaznébeví                   to sing (ben. imperfective)
+preštébeví                  to serve (ben. impf.)
+še                          with
+možlašaní                   to live (act. retrospective)
