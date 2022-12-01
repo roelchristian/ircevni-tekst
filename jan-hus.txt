@@ -62,42 +62,42 @@ Vocabulary
 
 Ircevní                     Anglevní                
 =======                     ========
-Jan Hus                     Jan Hus
-češčevní                    Czech
-teolog                      theologian
 a                           and
-filozof                     philosopher
-kluční                      key (adj.)
-protestantizmí              Protestantism (gen.)
-prědnik                     predecessor
-ko                          (attributive particle)
-Husitizmí                   Hussite movement (gen.)
-inspiracina                 inspiration (acc.)
-nehoček                     become (perfective)
-ša                          he/she
+berá                        to carry, to bear
 Bohamevní                   Bohemian
-reformacení                 Reformation (gen.)
-hovlauní                    important
+Boršóma                     Bohemia
 cel                         person
-na                          in
-Boršómí                     Bohemia (gen.)
-Husinca                     Husinec (acc.)
-plavní                      poor
-hurku                       parent (instr.)
-nebrinek                    to be born (caus. pass. perf.)
-za                          for
-plavnosta                   poverty (acc.)
-varšit                      to escape (supine of purpose)
-koplenást                   priesthood
-zodébik                     to train (benefactive perf.)
-otvěc                       young
-si                          when
-Praha                       Prague
-stožek                      to go (act. perf.)
-joní                        there
-ně                          plural
+češčevní                    Czech
+filozof                     philosopher
+hovlauní                    important
 hrum                        church
-kaznébeví                   to sing (ben. imperfective)
-preštébeví                  to serve (ben. impf.)
+hurek                       parents
+Husinec                     Husinec
+Husitizmus                  Hussite movement
+inspirace                   inspiration
+Jan Hus                     Jan Hus
+joní                        there
+kazná                       to sing
+kluční                      key (adj.)
+ko                          (attributive particle)
+koplenást                   priesthood
+možlá                       to live
+na                          in
+ně                          plural
+nehotá                      to become
+otvěc                       young person
+plavní                      poor
+plavnost                    poverty
+Prah                        Prague
+prědnik                     predecessor
+preštá                      to serve 
+protestantizmus             Protestantism
+reformace                   Reformation
+ša                          he/she
 še                          with
-možlašaní                   to live (act. retrospective)
+si                          when, during
+stohá                       to go (act. perf.)
+teolog                      theologian
+vará                        to escape
+za                          for, for the sake/benefit of
+zodá                        to train for
