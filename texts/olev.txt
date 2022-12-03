@@ -3,17 +3,24 @@ OLEV
 
 IRCEVNÍ TEKST
 
-Olev pramení centralní Evropí olt. Z Krkonuše nešelčeví, a tole na Boršóme a tole na Tiržóme kropčeví. Nížení tětu na Hamburcí prast ko Vishrada kračeví. Ně Olví pramení pritok Míltau, Sál, Havl, Mulda a Ohrh.
+Olev pramení centralní Evropí olt. Z Krkonuše nešelčeví, a tole na Boršóme
+a tole na Tiržóme kropčeví. Nížení tětu na Hamburcí prast ko Vishrada kračeví.
+Ně Olví pramení pritok Míltau, Sál, Havl, Mulda a Ohrh.
 
 
 ENGLISH TRANSLATION
 
-The Elbe is a major river in Central Europe. It rises in the Krkonoše Mountains and flows through Bohemia and Germany. After that it discharges to the North Sea near Hamburg. The Elbe's major tributaries include the Vltava, Saale, Havel, Mulde and Ohře rivers.
+The Elbe is a major river in Central Europe. It rises in the Krkonoše Mountains
+and flows through Bohemia and Germany. After that it discharges to the North Sea
+near Hamburg. The Elbe's major tributaries include the Vltava, Saale, Havel,
+Mulde and Ohře rivers.
 
 
 CZECH TRANSLATION
 
-Elba je hlavní řeka střední Evropy. Vzniká v Krkonoších a teče přes Čechy a Německo. Poté se vlévá do Severního moře poblíž Hamburku. Hlavními přítoky jsou Vltava, Saale, Havel, Mulda a Ohře.
+Elba je hlavní řeka střední Evropy. Vzniká v Krkonoších a teče přes Čechy a Německo.
+Poté se vlévá do Severního moře poblíž Hamburku. Hlavními přítoky jsou Vltava, Saale,
+Havel, Mulda a Ohře.
 
 
 GLOSSES
